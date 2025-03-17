@@ -1,0 +1,14 @@
+C:\Users\GREGORY\ConversorDeMoeda\bin\Debug\net8.0\ConversorDeMoeda.exe
+C:\Users\GREGORY\ConversorDeMoeda\bin\Debug\net8.0\ConversorDeMoeda.dll
+C:\Users\GREGORY\ConversorDeMoeda\obj\Debug\net8.0\ConversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GREGORY\ConversorDeMoeda\obj\Debug\net8.0\ConversorDeMoeda.AssemblyInfoInputs.cache
+C:\Users\GREGORY\ConversorDeMoeda\obj\Debug\net8.0\ConversorDeMoeda.AssemblyInfo.cs
+C:\Users\GREGORY\ConversorDeMoeda\obj\Debug\net8.0\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\GREGORY\ConversorDeMoeda\obj\Debug\net8.0\ConversorDeMoeda.dll
+C:\Users\GREGORY\ConversorDeMoeda\obj\Debug\net8.0\refint\ConversorDeMoeda.dll
+C:\Users\GREGORY\ConversorDeMoeda\obj\Debug\net8.0\ConversorDeMoeda.pdb
+C:\Users\GREGORY\ConversorDeMoeda\bin\Debug\net8.0\ConversorDeMoeda.deps.json
+C:\Users\GREGORY\ConversorDeMoeda\bin\Debug\net8.0\ConversorDeMoeda.runtimeconfig.json
+C:\Users\GREGORY\ConversorDeMoeda\bin\Debug\net8.0\ConversorDeMoeda.pdb
+C:\Users\GREGORY\ConversorDeMoeda\obj\Debug\net8.0\ConversorDeMoeda.genruntimeconfig.cache
+C:\Users\GREGORY\ConversorDeMoeda\obj\Debug\net8.0\ref\ConversorDeMoeda.dll
